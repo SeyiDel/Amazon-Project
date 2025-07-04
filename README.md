@@ -42,10 +42,18 @@ Using Pivot Tables, Calculated Columns, and Filtering, the following tasks are p
 
 # 🛠️ Excel Tools & Features Used
 ✅ Pivot Tables
+
 ✅ Calculated Fields (e.g., Discount %, Revenue)
+
 ✅ Price Bucketing using IF and VLOOKUP / XLOOKUP
+
 ✅ Conditional Formatting (for highlighting top/bottom performers)
+
 ✅ Sorting & Filtering
+
+# Visualization
+
+![image](https://github.com/user-attachments/assets/069582b5-de43-4b67-9030-dc4648ce05d1)
 
 # 📌 Notes
 -All analysis was conducted using Microsoft Excel
